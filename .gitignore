@@ -15,3 +15,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+#ignore Vagrant directory
+.vagrant
+#ignore Chef cookbooks
+/cookbooks
